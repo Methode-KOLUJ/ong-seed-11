@@ -13,9 +13,9 @@ const Histoire = () => {
           keywords="Histoire, 5 ans, Existence, Création, Initiative"
         />
         {/* Gradient en arrière-plan couvrant tout l'écran */}
-        {/* <div
+        <div
           className="absolute inset-0 bg-gradient-to-tr from-blue-950 via-transparent to-red-950 opacity-25 dark:opacity-75"
-          aria-hidden="true"></div> */}
+          aria-hidden="true"></div>
         <div>
           <LivrePDF />
         </div>
